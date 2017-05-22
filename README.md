@@ -1,1 +1,1 @@
-# It is a display for date collection and content edit. 
+# It is a display for abilities about date collection and content edit. 
